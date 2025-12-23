@@ -42,7 +42,7 @@ This app uses **Firebase** to handle backend services:
  __________________________________________________________
 | Signup                      | Login                      |
 | --------------------------- | -------------------------- |
-| [![](screenshots/signup.png)](https://drive.google.com/file/d/1bxl432bUbUFUt_Mm25xWyKGV6bYC_zsA/view?usp=drive_link) | https://drive.google.com/file/d/1PoG8BL3d2Tgzm8uleHF7C6wZ38M16Ff3/view?usp=drive_link
+| (https://drive.google.com/file/d/1bxl432bUbUFUt_Mm25xWyKGV6bYC_zsA/view?usp=drive_link) | https://drive.google.com/file/d/1PoG8BL3d2Tgzm8uleHF7C6wZ38M16Ff3/view?usp=drive_link
 |                                                          |
  ----------------------------------------------------------
 
