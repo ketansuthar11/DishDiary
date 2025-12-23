@@ -71,7 +71,7 @@ ________________________________________________________________________________
 ______________________________________
 | Saved Recipes                      |
 | ---------------------------------- |
-|[ ![](screenshots/saved_recipes.png)](https://drive.google.com/file/d/1N3VZJOSjEql0CvouSKk8O3Z6bTSUGZy-/view?usp=drive_link) |
+|(https://drive.google.com/file/d/1N3VZJOSjEql0CvouSKk8O3Z6bTSUGZy-/view?usp=drive_link) |
 --------------------------------------
 
 ---
